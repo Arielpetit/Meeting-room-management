@@ -235,6 +235,7 @@ For any questions, feedback, or contributions, feel free to reach out:
 A special thanks to the following resources and communities for providing invaluable tools and guidance:
 
 - React.js - for building dynamic UIs.
+- My team mates .
 - Tailwind CSS - for modern, utility-first styling.
 - react-big-calendar - for the amazing calendar component.
 - MDN Web Docs - for comprehensive documentation.
